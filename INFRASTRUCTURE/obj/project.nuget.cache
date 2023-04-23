@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DyhSwT9yfQMyNCynIGEDcPbQyaaSDLGOhNucqypWXDBoH3piMkk5VqGg5PkoYo/v2F4Cvc7l8qboLC+PCY4I4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angel\\Documents\\Mina program\\MVC\\WeConnect2.0\\infrastructure\\INFRASTRUCTURE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
